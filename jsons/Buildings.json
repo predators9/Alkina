@@ -1,69 +1,100 @@
 [
 	{
-		"name": "Lawless Cathedral",
-		"replaces": "Grand Temple",
-		"uniqueTo": "Alkinia",
-		"cost": 125,
-		"specialistSlots": {"Artist": 4},
-		"cityStrength": 10,
-		"cityHealth": 90,
-		"culture": 1,
-		"faith": 4,
-		"food": 4,
-		"production": 1,
-		"uniques": ["[+100]% growth [in this city]","[+100]% Yield from every [Jungle]","Indicates the capital city","May choose [1] additional [Founder] beliefs when [founding] a religion","Empire enters golden age", "[4 Faith] from [Jungle] tiles [in this city]", "[+4 Food] from [Jungle] tiles [in this city]", "[4 Production] from [Jungle] tiles [in this city]", "[+9 Happiness] from [Jungle] [in this city]","[+1 Food, +1 Gold] <with [1] to [2] neighboring [Jungle] tiles>", "[+2 Food, +2 Gold] <with [3] to [4] neighboring [Jungle] tiles>", "[+3 Food, +3 Gold] <with [5] to [6] neighboring [Jungle] tiles>", "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "[+34]% Great Person generation [in this city]","[+200]% Natural religion spread [in this city]", "Hidden when religion is disabled", "[+25]% Production when constructing [Military] units [in this city] ", "[+1 Faith] per [1] population [in this city]", "[+1 Food] per [1] population [in this city]","[1 Production] per [1] population [in this city]", "[+1 Culture] per [1] population [in this city]", "[+1 Happiness] per [1] population [in this city]", "Can only be built [in holy cities]", "Provides [4] [Iron]", "[+1 Gold] <after discovering [Flight]>", "Gain a free [Cathedral] [in this city]", "Gain a free [Garden] [in this city]", "Free Social Policy","[+4 Food] [in all cities connected to capital]","[+10]% Production towards any buildings that already exist in the Capital <in cities connected to the capital>","[+15]% Production when constructing [All] wonders [in capital]","[+10 Food] from [Wheat] tiles [in this city]","[+10 Food] from [Pasture] tiles [in this city]","[+1 Production] from [River] tiles [in this city]", 
-		"Creates a [Hope Lake] improvement on a specific tile",
-		"[+2 Food] from [Farm] tiles [in all cities] <within [1] tiles of a [Hope Lake]>",
-		"[+4 Food, +2 Gold] from [Hope Lake] tiles [in this city]","[50]% Food is carried over after population increases [in this city]","[+4 Gold] from [Silver] tiles [in this city]","[+1 Food] [in capital]","[+1 Production] from every specialist [in this city]","[+2 Happiness] per [5] population [in this city]"],
-		"requiredTech": "Theology",
-		"isNationalWonder": true,
-		"civilopediaText": [
-			{
-				"text": "For centuries, we stood for GOD. The biggest and most important gardens on the continent, this beautiful Eden provides great value for humanity.."
-			}
-		]
-	},
-	
-	{
-		"name": "XOS Corp",
-            "replaces": "Courthouse",
-            "uniqueTo": "Alkinia",
-		"maintenance": 0,
-		"hurryCostModifier": 1,
-		"uniques": ["Remove extra unhappiness from annexed cities",
-			"Can only be built [in annexed cities]"],
-		"requiredTech": "Mathematics"
+		"name": "Greatsword Master",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Alkina",
+		"movement": 2,
+		"strength": 26,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Guerillas Ops",
+		"requiredResource": "Iron",
+		"promotions": ["Woods Warfare"],
+		"uniques": ["Upgrades to Guerillas Ops"],
+		"attackSound": "metalhit"
 	},
 
 	{
-		"name": "Homestead",
-		"replaces": "Granary",
-		"uniqueTo": "Alkinia", 
-		"food": 24,
-		"maintenance": 0,
-		"cityStrength": 9,
-		"happiness": 4,
-		"hurryCostModifier": 25,
-       	"cost": 24,
-		"requiredTech": "Pottery",
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]"]
+		"name": "Guerillas Ops",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Alkinia",
+		"replaces": "Rifleman",
+		"movement": 9,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "XOS-Z21",
+		"hurryCostModifier": -25,
+		"attackSound": "shot",
+		"uniques": ["Can move after attacking","Double movement in [Jungle]","Can move immediately once bought","Prevents spreading of religion to the city it is next to","Can [Remove Foreign religions from your own cities] [1] times",
+		"Can be purchased with [Faith] [in all cities]","Can construct [Sacred altar] <if it hasn't used other actions yet>",
+		"[+1] Sight","Religious Unit","Defense bonus when embarked","[+200]% Strength <vs cities> <when attacking>","[+25]% Strength <vs [Gunpowder] units>","Earn [100]% of killed [Military] unit's [Strength] as [Culture]"]
+	},
+
+	{
+		"name": "Pioneers",
+		"unitType": "Civilian",
+		"uniqueTo": "Alkinia",
+		"replaces": "Settler",
+		"movement": 99,
+		"cost": 4,
+		"uniques": ["Cheaper to buy", "Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population","Double movement in [Friendly Land]]"],
+		"hurryCostModifier": -50
 	},
 	
 	{
-		"name":"Freeports",
-		"cost":250,
-		"replaces":"Seaport",
-		"requiredTech":"Navigation",
-		"uniqueTo":"Alkinia",
-		"maintenance":3,
-		"requiredBuilding": "Harbor",
-		"uniques":[
-			"[+1 Gold] from each Trade Route","[+5]% [Gold] from Trade Routes","[+1 Production] from every [Trading post] [in this city]","[+15]% Production when constructing [Water] units [in this city]",
-			"Must be next to [Coast]",
-			"[+1 Happiness] from [Luxury resource] tiles [in this city]",
-			"[+1 Production, +1 Happiness] from [Water resource] tiles [in all cities]"
-		]
+		"name": "Jeremiah",
+		"unitType": "Civilian",
+		"uniqueTo": "Alkinia",
+		"replaces": "Great Prophet",
+		"uniques": ["Uncapturable","All adjacent units heal [+24] HP when healing","Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+		"Can Spread Religion <for [2] movement> <[7] times> <after which this unit is consumed>",
+		"Removes other religions when spreading religion",
+		"May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+		"May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+		"May enter foreign tiles without open borders", "Great Person - [Faith]",
+		"Unbuildable", "Religious Unit", "Hidden when religion is disabled",
+		"Takes your religion over the one in their birth city","All adjacent units heal [+15] HP when healing"],
+		"movement": 9,
+		"religiousStrength": 9999
+	},	
+
+	{
+		"name": "War Boat",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Alkinia",
+		"replaces": "Galleass",
+		"movement": 3,
+		"strength": 20,
+		"rangedStrength": 20,
+		"cost": 100,
+		"range": 1,
+		"requiredTech": "Compass",
+		"upgradesTo": "Frigate",
+		"uniques": ["[+5] Sight","Can see invisible [Submarine] units"],
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+	},
+
+	{
+		"name": "XOS-Z21",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Alkinia",
+		"replaces": "Rifleman",
+		"movement": 9,
+		"strength": 999,
+		"cost": 999,
+		"requiredTech": "Nanotechnology",
+		"promotions": ["Ignore terrain cost"],
+		"hurryCostModifier": -25,
+		"attackSound": "metalhit",
+		"uniques": ["Can move after attacking","[2] additional attacks per turn","Unit will heal every turn, even if it performs an action","Double movement in [Friendly Land]","[+75]% Strength <when fighting in [Friendly Land] tiles>","[+75]% Strength <when fighting in [Foreign Land] tiles>","Can move immediately once bought","Prevents spreading of religion to the city it is next to","Can [Remove Foreign religions from your own cities] [1] times",
+		"Can be purchased with [Faith] [in all cities]","Can construct [First House of the Sanctum] <if it hasn't used other actions yet>",
+		"[+99] Sight","Can see over obstacles","Defense bonus when embarked","[+200]% Strength <vs cities> <when attacking>","[+200]% Strength <vs cities> <when defending>","[+200]% Strength <when defending> <vs [Ranged] units>","[+100]% Strength <vs [Armored] units>","[100]% chance to intercept air attacks","+9 Intercept Range", "[+150]% Strength <vs [Bomber] units>","Never appears as a Barbarian unit"]
 	}
+
+	
 ]
+
