@@ -14,7 +14,7 @@
 		"culture": 3,
 		"faith": 2,
 		"uniques": ["Great Improvement","[+1 Food, +1 Production] for each adjacent [Great Improvement]","[+1 Culture, +1 Faith] <after discovering [Philosophy]>",
-		"[+1 Food, +1 Faith, +1 Culture,+1 Production] <after discovering [Theology]> <in [Jungle] tiles>",
+		"[+1 Food, +1 Faith] <after discovering [Theology]> <in [Jungle] tiles>",
 		"[+1 Culture, +1 Faith] <after discovering [Acoustics]> <in [Jungle] tiles>",
 		"[+1 Production] <after discovering [Archaeology]> <in [Jungle] tiles>",
 		"[+1 Production] <after discovering [Radio]> <in [Jungle] tiles>",
