@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Lawless Cathedral",
+		"replaces": "Grand Temple",
+		"uniqueTo": "Alkinia",
+		"cost": 125,
+		"specialistSlots": {"Artist": 4},
+		"cityStrength": 10,
+		"cityHealth": 90,
+		"culture": 1,
+		"faith": 4,
+		"food": 4,
+		"production": 1,
+		"uniques": ["[+100]% growth [in this city]","[+100]% Yield from every [Jungle]","Indicates the capital city","May choose [1] additional [Founder] beliefs when [founding] a religion","Empire enters golden age", "[4 Faith] from [Jungle] tiles [in this city]", "[+4 Food] from [Jungle] tiles [in this city]", "[4 Production] from [Jungle] tiles [in this city]", "[+9 Happiness] from [Jungle] [in this city]","[+1 Food, +1 Gold] <with [1] to [2] neighboring [Jungle] tiles>", "[+2 Food, +2 Gold] <with [3] to [4] neighboring [Jungle] tiles>", "[+3 Food, +3 Gold] <with [5] to [6] neighboring [Jungle] tiles>", "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "[+34]% Great Person generation [in this city]","[+200]% Natural religion spread [in this city]", "Hidden when religion is disabled", "[+25]% Production when constructing [Military] units [in this city] ", "[+1 Faith] per [1] population [in this city]", "[+1 Food] per [1] population [in this city]","[1 Production] per [1] population [in this city]", "[+1 Culture] per [1] population [in this city]", "[+1 Happiness] per [1] population [in this city]", "Can only be built [in holy cities]", "Provides [4] [Iron]", "[+1 Gold] <after discovering [Flight]>", "Gain a free [Cathedral] [in this city]", "Gain a free [Garden] [in this city]", "Free Social Policy","[+4 Food] [in all cities connected to capital]","[+10]% Production towards any buildings that already exist in the Capital <in cities connected to the capital>","[+15]% Production when constructing [All] wonders [in capital]","[+10 Food] from [Wheat] tiles [in this city]","[+10 Food] from [Pasture] tiles [in this city]","[+1 Production] from [River] tiles [in this city]", 
+		"Creates a [Hope Lake] improvement on a specific tile",
+		"[+2 Food] from [Farm] tiles [in all cities] <within [1] tiles of a [Hope Lake]>",
+		"[+4 Food, +2 Gold] from [Hope Lake] tiles [in this city]","[50]% Food is carried over after population increases [in this city]","[+4 Gold] from [Silver] tiles [in this city]","[+1 Food] [in capital]","[+1 Production] from every specialist [in this city]","[+2 Happiness] per [5] population [in this city]"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true,
+		"civilopediaText": [
+			{
+				"text": "For centuries, we stood for GOD. The biggest and most important gardens on the continent, this beautiful Eden provides great value for humanity.."
+			}
+		]
+	},
+	
+	{
+		"name": "XOS Corp",
+            "replaces": "Courthouse",
+            "uniqueTo": "Alkinia",
+		"maintenance": 0,
+		"hurryCostModifier": 1,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built [in annexed cities]"],
+		"requiredTech": "Mathematics"
+	},
+
+	{
+		"name": "Homestead",
+		"replaces": "Granary",
+		"uniqueTo": "Alkinia", 
+		"food": 24,
+		"maintenance": 0,
+		"cityStrength": 9,
+		"happiness": 4,
+		"hurryCostModifier": 25,
+       	"cost": 24,
+		"requiredTech": "Pottery",
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"]
+	},
+	
+	{
+		"name":"Freeports",
+		"cost":250,
+		"replaces":"Seaport",
+		"requiredTech":"Navigation",
+		"uniqueTo":"Alkinia",
+		"maintenance":3,
+		"requiredBuilding": "Harbor",
+		"uniques":[
+			"[+1 Gold] from each Trade Route","[+5]% [Gold] from Trade Routes","[+1 Production] from every [Trading post] [in this city]","[+15]% Production when constructing [Water] units [in this city]",
+			"Must be next to [Coast]",
+			"[+1 Happiness] from [Luxury resource] tiles [in this city]",
+			"[+1 Production, +1 Happiness] from [Water resource] tiles [in all cities]"
+		]
+	}
+]

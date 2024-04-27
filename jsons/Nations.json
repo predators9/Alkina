@@ -1,0 +1,48 @@
+[
+	{
+		"startBias": ["Hill", "Plains"],
+		"preferredVictoryType": "Domination",
+		"uniqueName": "Patronage of the Raven",
+		"uniques": ["[+15]% [Science] [in all cities] <during a Golden Age>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Walls] buildings [in all cities]","[+50]% Production when constructing [Var] buildings [in all cities]"]
+	},
+	{
+
+		"startBias": ["Jungle","Grassland","Coast"],
+		"uniques": ["[+1 Gold] from every [Luxury resource]","[1] Movement point cost to disembark <for [All] units>","[1] Movement point cost to embark <for [All] units>","[+1 Culture] from every [Trading post]"]
+	},
+	{
+		"name": "Zerealia",
+		"leaderName": "Prophet X",
+		"adjective": ["Zerealian"],
+		"startBias": ["Jungle","Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hail, GOD chosen Prophet, head of the Alkins dynasty. You are the leader of a nation called Zerealia, whose people has had an history of war and resistance. Your reign was eulogized as the Prospered Reign of Hong Duc, as it was recognized for the extensive administrative, military, education and fiscal reforms you instituted, the conquest of the Champa states in the south, and a cultural revolution that replaced the old aristocracy with a generation of literati scholars. Even after the disappearance of the Dai Viet dynasty, your nation resisted hardships that would have destroyed the strongest empire, and is today one of the most prosperous countries in all of East Asia.",
+		"startIntroPart2": "Wise and revered leader of Zerealia, your nation in now in need of your help to achieve greater glory. Will you guide Zerealia once again and bring your people to greater prosperity, until Zerealia becomes the center of the world? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Death!",
+		"attacked": "A knife in the back",
+		"defeated": "That's not an end. It's merely a beginning of your problems!",
+		"introduction": "Hello~I'm of the Great Prophet of Akinia. Have nice day",
+		
+		"neutralHello": "Hai~",
+		"neutralLetsHearIt": "What do you need?",
+		"neutralNo": "No way.",
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Get out of my sight",
+		"hateLetsHearIt": "Speak!",
+		"hateNo": "That won't do.",
+		"hateYes": "Let it be.",
+		
+		"afterPeace": "I am glad the war is finally over.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [	239, 2, 2],
+		"innerColor": [	255, 247, 9],
+		"uniqueName": "GOD's Love",
+		"uniques": ["Starts with [Piety] adopted","[+1 Faith] [in all cities]","[+75]% Production when constructing [All] wonders [in capital]","Starts with [Writing]","[+2 Faith] from every specialist [in all cities]","[+3 Science, +3 Culture] [in capital] <after discovering [Theology]>","Receive free [Jeremiah] when you discover [Theology]","[+50]% Production when constructing [Walls] buildings [in all cities]","[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]","[+100]% [Food [in all cities connected to capital]","Enables embarkation for land units <starting from the [Ancient era]>","[-50]% maintenance costs <for [Gunpowder] units>","[+1 Culture, +2 Gold] from each Trade Route","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","Damage is ignored when determining unit Strength","[+75]% Strength <for [Wounded] units>","[+9 Happiness] from every [Barracks]","[+9 Food] from every [Jungle]"],
+		"cities": ["Alkinia","Gia Dinh","Hoi An",
+			"Windhelm","Dawnstar","Winterhold","Solitude","Morthal","Markarth","Falkreath","Riften","Hue","Co Loa","Nha Trang","Bien Hoa","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
+			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
+	}
+]
