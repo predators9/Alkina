@@ -1,16 +1,5 @@
 [
 	{
-		"startBias": ["Hill", "Plains"],
-		"preferredVictoryType": "Domination",
-		"uniqueName": "Patronage of the Raven",
-		"uniques": ["[+15]% [Science] [in all cities] <during a Golden Age>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Walls] buildings [in all cities]","[+50]% Production when constructing [Var] buildings [in all cities]"]
-	},
-	{
-
-		"startBias": ["Jungle","Grassland","Coast"],
-		"uniques": ["[+1 Gold] from every [Luxury resource]","[1] Movement point cost to disembark <for [All] units>","[1] Movement point cost to embark <for [All] units>","[+1 Culture] from every [Trading post]"]
-	},
-	{
 		"name": "Zerealia",
 		"leaderName": "Prophet X",
 		"adjective": ["Zerealian"],
