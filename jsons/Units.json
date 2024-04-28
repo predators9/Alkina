@@ -40,7 +40,7 @@
 		"movement": 99,
 		"cost": 4,
 		"uniques": ["Cheaper to buy", "Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population","Double movement in [Friendly Land]]"],
+			"Requires at least [2] population","Double movement in [Friendly Land]"],
 		"hurryCostModifier": -50
 	},
 	
