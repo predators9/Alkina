@@ -44,11 +44,23 @@
 		"cityStrength": 9,
 		"happiness": 4,
 		"hurryCostModifier": 25,
-       	"cost": 24,
+                "cost": 24,
 		"requiredTech": "Pottery",
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"]
+	},
+
+	{
+		"name": "Womb",
+		"replaces": "Bomb Shelter",
+                "uniqueTo": "Alkinia",
+                "hurryCostModifier": 400,
+		"cost": 900,
+		"maintenance": 0,
+		"cityHealth": 9999,
+		"requiredTech": "Telecommunications",
+		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]","Damage to garrison from nuclear attacks [-100]% [in this city]","[-100]% enemy spy effectiveness [in this city]"]
 	},
 	
 	{
