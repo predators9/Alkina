@@ -39,9 +39,8 @@
 		"faith": 4,
 		"food": 4,
 		"production": 1,
-		"uniques": ["[+100]% growth [in this city]","[+1 Faith] per [+1] population [in this city]", "[+1 Food] per [1] population [in this city]","[+1 Production] per [1] population [in this city]", "[+1 Culture] per [1] population [in this city]", "[+1 Happiness] per [1] population [in this city]","[+100]% [Food [in all cities connected to capital]","Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[-50]% maintenance costs <for [Gunpowder] units>","Damage is ignored when determining unit Strength","[+75]% Strength <for [Wounded] units>","[+9 Food, +9 Happiness] from every [Womb]","[+9 Food] from every [Jungle]","[+100]% Yield from every [Jungle] tiles"],
-		"cities": ["Alkinia","Gia Dinh","Hoi An",
-			"Windhelm","Dawnstar","Winterhold","Solitude","Morthal","Markarth","Falkreath","Riften","Hue","Co Loa","Nha Trang","Bien Hoa","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
-			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
+		"uniques": ["[+100]% growth [in this city]","[+1 Faith] per [+1] population [in this city]", "[+1 Food] per [1] population [in this city]","[+1 Production] per [1] population [in this city]", "[+1 Culture] per [1] population [in this city]", "[+1 Happiness] per [1] population [in this city]","[+100]% Food [in all cities connected to capital]","Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[-50]% maintenance costs <for [Gunpowder] units>","Damage is ignored when determining unit Strength","[+75]% Strength <for [Wounded] units>","[+9 Food, +9 Happiness] from every [Womb]","[+9 Food] from every [Jungle]","[+100]% Yield from every [Jungle] tiles"],
+		"cities": ["Alkinia","Gia Dinh","Hoi An","Windhelm","Dawnstar","Winterhold","Solitude","Morthal","Markarth","Falkreath","Riften",
+			"Hue","Co Loa","Nha Trang","Bien Hoa","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen","My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
 	}
 ]
