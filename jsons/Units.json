@@ -3,7 +3,7 @@
 		"name": "Greatsword Master",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
-		"uniqueTo": "Alkina",
+		"uniqueTo": "Zerealia",
 		"movement": 2,
 		"strength": 26,
 		"cost": 120,
@@ -18,7 +18,7 @@
 	{
 		"name": "Guerillas Ops",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"replaces": "Rifleman",
 		"movement": 9,
 		"strength": 25,
@@ -35,7 +35,7 @@
 	{
 		"name": "Pioneers",
 		"unitType": "Civilian",
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"replaces": "Settler",
 		"movement": 99,
 		"cost": 4,
@@ -47,7 +47,7 @@
 	{
 		"name": "Jeremiah",
 		"unitType": "Civilian",
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"replaces": "Great Prophet",
 		"uniques": ["Uncapturable","All adjacent units heal [+24] HP when healing","Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
 		"Can Spread Religion <for [2] movement> <[7] times> <after which this unit is consumed>",
@@ -64,7 +64,7 @@
 	{
 		"name": "War Boat",
 		"unitType": "Ranged Water",
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"replaces": "Galleass",
 		"movement": 3,
 		"strength": 20,
@@ -81,7 +81,7 @@
 	{
 		"name": "XOS-Z21",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"replaces": "Rifleman",
 		"movement": 9,
 		"strength": 999,
