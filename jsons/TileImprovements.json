@@ -24,17 +24,18 @@
 
 	{
 		"name": "Pineapple Plantation",		
-        "uniqueTo": "Alkinia",
+		"uniqueTo": "Alkinia",
 		"terrainsCanBeBuiltOn": ["Jungle"],
 		"gold": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Calendar",
 		"uniques": [
 				"Provides [1] [Pineapple]",
+			        "Does not need removal of [Jungle]",
 				"[+1 Food] <after discovering [Fertilizer]>",
 				"Cannot be built on [Bonus resource] tiles", 
 				"Cannot be built on [Luxury resource] tiles",
-				"Does not need removal of [Jungle]"]
+				]
 	},
 
 	{
