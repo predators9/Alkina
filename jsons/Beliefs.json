@@ -3,13 +3,8 @@
     ///////////////////////////////////////// Pantheon/////////////////////////////////////////
         "name": "YHWH",
         "type": "Pantheon",
-        "uniques": ["[+4 Faith, +4 Culture, +4 Gold, +4 Science, +4 Production,+1 Happiness] from every [Cathedral]",
-        "[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in capital]",
-        "[+50]% Strength for cities <when attacking>",
-
-    
-    
-    ]
+        "uniques": ["[+4 Science, +1 Happiness] from every [Cathedral]",
+        "[+1 Food] [in capital]"]
     }//,
      ///////////////////////////////////////// Founder beliefs /////////////////////////////////////////
      //{
