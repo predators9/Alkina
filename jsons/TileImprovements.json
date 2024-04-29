@@ -1,7 +1,7 @@
 [
 	{
 		"name": "First House of the Sanctum",
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 1,
 		"food": 9,
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Blessed Wood",
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 3,
 		"faith": 2,
@@ -24,7 +24,7 @@
 
 	{
 		"name": "Pineapple Plantation",		
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"terrainsCanBeBuiltOn": ["Jungle"],
 		"gold": 2,
 		"turnsToBuild": 7,
