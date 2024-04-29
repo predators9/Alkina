@@ -2,7 +2,7 @@
 	{
 		"name": "Lawless Cathedral",
 		"replaces": "Grand Temple",
-		"uniqueTo": "Alkinia",
+		"uniqueTo": "Zerealia",
 		"cost": 125,
 		"specialistSlots": {"Artist": 4},
 		"cityStrength": 10,
@@ -11,7 +11,7 @@
 		"faith": 4,
 		"food": 4,
 		"production": 1,
-		"uniques": ["[+200]% Natural religion spread [in this city]","[+100]% growth [in this city]","Can only be built <in [Holy] cities>", "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>","May choose [1] additional [Founder] beliefs when [founding] a religion","Empire enters golden age", "[+25]% Production when constructing [Military] units [in this city] ", "Provides [4] [Iron]", "[+1 Gold] <after discovering [Flight]>", "Gain a free [Cathedral] [in this city]", "Gain a free [Garden] [in this city]","[+4 Food] [in all cities connected to capital]","[+10]% Production towards any buildings that already exist in the Capital <in cities connected to the capital>","[+10 Food] from [Wheat] tiles [in this city]","[+10 Food] from [Pasture] tiles [in this city]","[+1 Food] from [River] tiles [in this city]","[+4 Gold] from [Silver] tiles [in this city]"],
+		"uniques": ["[+200]% Natural religion spread [in this city]","[+100]% growth [in this city]","Can only be built <in [Holy] cities>", "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>","May choose [1] additional [Founder] beliefs when [founding] a religion","Empire enters golden age", "[+25]% Production when constructing [Military] units [in this city] ", "Provides [4] [Iron]", "[+1 Gold] <after discovering [Flight]>", "Gain a free [Cathedral] [in this city]", "Gain a free [Garden] [in this city]","[+4 Food] [in all cities connected to capital]","[+10 Food] from [Wheat] tiles [in this city]","[+10 Food] from [Pasture] tiles [in this city]","[+1 Food] from [River] tiles [in this city]","[+4 Gold] from [Silver] tiles [in this city]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true,
 		"civilopediaText": [
@@ -24,7 +24,7 @@
 	{
 		"name": "XOS Corp",
             "replaces": "Courthouse",
-            "uniqueTo": "Alkinia",
+            "uniqueTo": "Zerealia",
 		"maintenance": 0,
 		"hurryCostModifier": 1,
 		"uniques": ["Remove extra unhappiness from annexed cities",
@@ -35,7 +35,7 @@
 	{
 		"name": "Homestead",
 		"replaces": "Granary",
-		"uniqueTo": "Alkinia", 
+		"uniqueTo": "Zerealia", 
 		"food": 24,
 		"maintenance": 0,
 		"cityStrength": 9,
@@ -51,7 +51,7 @@
 	{
 		"name": "Womb",
 		"replaces": "Bomb Shelter",
-                "uniqueTo": "Alkinia",
+                "uniqueTo": "Zerealia",
                 "hurryCostModifier": 400,
 		"cost": 900,
 		"maintenance": 0,
@@ -65,7 +65,7 @@
 		"cost":250,
 		"replaces":"Seaport",
 		"requiredTech":"Navigation",
-		"uniqueTo":"Alkinia",
+		"uniqueTo":"Zerealia",
 		"maintenance":3,
 		"requiredBuilding": "Harbor",
 		"uniques":[
