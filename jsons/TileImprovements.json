@@ -36,16 +36,5 @@
 				"Cannot be built on [Bonus resource] tiles", 
 				"Cannot be built on [Luxury resource] tiles",
 				]
-	},
-
-	{
-		"name": "Hope Lake",
-		"uniqueTo": "Alkinia",
-		"terrainsCanBeBuiltOn": ["Hill"],
-		"uniques": [
-			"Can only be built on [Fresh Water] tiles", "Irremovable", "Removes removable features when built",
-			"Great Improvement","Will not be displayed in Civilopedia",
-			"Pillaging this improvement yields approximately [+57 Gold]"
-		]
 	}
 ]
