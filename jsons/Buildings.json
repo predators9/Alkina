@@ -11,7 +11,7 @@
 		"faith": 4,
 		"food": 4,
 		"production": 1,
-		"uniques": ["[+200]% Natural religion spread [in this city]", "[+100]% growth [in this city]", "Can only be built <in [Holy] cities>", "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "May choose [1] additional [Founder] beliefs when [founding] a religion", "Empire enters golden age", "[+25]% Production when constructing [Military] units [in this city] ", "Provides [4] [Iron]", "Gain a free [Cathedral] [in this city]", "Gain a free [Garden] [in this city]", "[+4 Food] [in all cities connected to capital]", "[+10 Food] from [Pasture] tiles [in this city]", "[+1 Food] from [River] tiles [in this city]", "[+1 Gold] <after discovering [Flight]>", "[+4 Gold] from [Silver] tiles [in this city]"],
+		"uniques": ["[+200]% Natural religion spread [in this city]", "[+100]% growth [in this city]", "Can only be built <in [Holy] cities>", "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "May choose [1] additional [Founder] beliefs when [founding] a religion", "Empire enters golden age", "[+25]% Production when constructing [Military] units [in this city] ", "Provides [4] [Iron]", "Gain a free [Cathedral] [in this city]", "Gain a free [Garden] [in this city]", "[+4 Food] [in all cities connected to capital]","[+100]% Food [in all cities connected to capital]", "[+10 Happiness] from [Pasture] tiles [in this city]", "[+1 Food] from [River] tiles [in this city]", "[+1 Gold] <after discovering [Flight]>", "[+4 Gold] from [Silver] tiles [in this city]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true,
 		"civilopediaText": [
