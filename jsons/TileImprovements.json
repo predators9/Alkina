@@ -10,16 +10,17 @@
 	{
 		"name": "Blessed Wood",
 		"uniqueTo": "Zerealia",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"culture": 3,
 		"faith": 2,
-		"uniques": ["Great Improvement","[+1 Food, +1 Production] for each adjacent [Great Improvement]","[+1 Culture, +1 Faith] <after discovering [Philosophy]>",
-		"[+1 Food, +1 Faith] <after discovering [Theology]> <in [Jungle] tiles>",
+		"uniques": ["Great Improvement","[+1 Food, +1 Production] for each adjacent [Great Improvement]",
+			"[+1 Culture, +1 Faith] <after discovering [Philosophy]>",
+		"[+1 Food, +1 Science] <after discovering [Theology]> <in [Jungle] tiles>",
 		"[+1 Culture, +1 Faith] <after discovering [Acoustics]> <in [Jungle] tiles>",
-		"[+1 Production] <after discovering [Archaeology]> <in [Jungle] tiles>",
-		"[+1 Production] <after discovering [Radio]> <in [Jungle] tiles>",
-		"[+1 Production] <after discovering [Pharmaceuticals]> <in [Jungle] tiles>",
-		"[+1 Production] <after discovering [Telecommunications]> <in [Jungle] tiles>"]
+		"[+1 Production] <after discovering [Machinery]> <in [Jungle] tiles>",
+		"[+1 Production] <after discovering [Biology]> <in [Jungle] tiles>",
+		"[+1 Production] <after discovering [Ecology]> <in [Jungle] tiles>",
+		"[+1 Production] <after discovering [Particle Physics]> <in [Jungle] tiles>"]
 	},
 
 	{
