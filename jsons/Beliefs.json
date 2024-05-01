@@ -3,8 +3,8 @@
     ///////////////////////////////////////// Pantheon/////////////////////////////////////////
         "name": "YHWH",
         "type": "Pantheon",
-        "uniques": ["[+4 Science, +1 Happiness] from every [Cathedral]",
-        "[+1 Food] [in capital]"]
+        "uniques": ["[+10 Science, +1 Happiness] from every [Cathedral]",
+        "[+1 Food] [in capital]","[+10]% growth [in this city]","[All] Units adjacent to this city heal [+40] HP per turn when healing"]
     }//,
      ///////////////////////////////////////// Founder beliefs /////////////////////////////////////////
      //{
