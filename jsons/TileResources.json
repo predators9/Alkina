@@ -6,9 +6,7 @@
 		"food": 1,
 		"gold": 1,
 		"improvement": "Pineapple Plantation",
-		"uniques": ["Generated with weight [30] <in [Jungle] Regions>",
-					"Generated with weight [30] <in [Oasis] Regions>",
-					"Generated with weight [15] <in [Hybrid] Regions>",
+		"uniques": ["Generated with weight [40] <in [Jungle] Regions>",
 					"Doesn't generate naturally <in [Tundra] Regions>"]
 	}
 ]
