@@ -3,9 +3,9 @@
 		"name": "First House of the Sanctum",
 		"uniqueTo": "Zerealia",
 		"terrainsCanBeBuiltOn": ["Forest"],
-		"faith": 1,
-		"food": 9,
-		"uniques": ["Tile provides yield without assigned population","Gives a defensive bonus of [50]%","Must be next to [City center]"]
+		"faith": 7,
+		"happiness": 7,
+		"uniques": ["Great Improvement","Tile provides yield without assigned population","Gives a defensive bonus of [50]%","Must be next to [City center]"]
 	},
 	{
 		"name": "Blessed Wood",
