@@ -32,7 +32,7 @@
 		"uniques": ["[+75]% Production when constructing [All] wonders [in capital]",
 			"[-100]% Culture cost of natural border growth [in all cities]",
 			"[+100]% growth [in all cities]",
-			"[+1 Faith,+1 Food,+1 Production,+1 Culture,+1 Happiness] per [1] population [in this city]", 
+			"[+1 Faith] per [1] population", 
 			"[+1 Food] per [1] population",
 			"[+1 Production] per [1] population",
 			"[+1 Science] per [1] population",
