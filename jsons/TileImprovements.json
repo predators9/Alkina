@@ -2,7 +2,7 @@
 	{
 		"name": "First House of the Sanctum",
 		"uniqueTo": "Zerealia",
-		"terrainsCanBeBuiltOn": ["Forest"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 7,
 		"happiness": 7,
 		"uniques": ["Great Improvement","Tile provides yield without assigned population","Gives a defensive bonus of [50]%","Must be next to [City center]"]
