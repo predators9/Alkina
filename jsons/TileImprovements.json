@@ -13,7 +13,7 @@
 		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"culture": 3,
 		"faith": 2,
-		"uniques": ["Great Improvement","[+1 Food, +1 Production] for each adjacent [Great Improvement]",
+		"uniques": ["Great Improvement","[+1 Food, +1 Production] for each adjacent [Great Improvement]","Does not need removal of [Forest]","Does not need removal of [Jungle]","Provides [1] [Truffle]",
 			"[+1 Culture, +1 Faith] <after discovering [Philosophy]>",
 		"[+1 Food, +1 Science] <after discovering [Theology]> <in [Jungle] tiles>",
 		"[+1 Culture, +1 Faith] <after discovering [Acoustics]> <in [Jungle] tiles>",
@@ -33,6 +33,7 @@
 		"uniques": [
 				"Provides [1] [Pineapple]",
 			        "Does not need removal of [Jungle]",
+			        "Can only be built to improve a resource",
 				"[+1 Food] <after discovering [Fertilizer]>"
 				]
 	}
