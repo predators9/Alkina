@@ -2,7 +2,7 @@
 	{
 		"name": "First House of the Sanctum",
 		"uniqueTo": "Zerealia",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Forest"],
 		"faith": 1,
 		"food": 9,
 		"uniques": ["Tile provides yield without assigned population","Gives a defensive bonus of [50]%","Must be next to [City center]"]
@@ -32,9 +32,7 @@
 		"uniques": [
 				"Provides [1] [Pineapple]",
 			        "Does not need removal of [Jungle]",
-				"[+1 Food] <after discovering [Fertilizer]>",
-				"Cannot be built on [Bonus resource] tiles", 
-				"Cannot be built on [Luxury resource] tiles",
+				"[+1 Food] <after discovering [Fertilizer]>"
 				]
 	}
 ]
