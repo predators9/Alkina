@@ -26,7 +26,7 @@
 		"upgradesTo": "XOS-Z21",
 		"hurryCostModifier": -25,
 		"attackSound": "shot",
-		"uniques": ["Can move after attacking","[+75]% Strength <when fighting in [Jungle] tiles>","Double movement in [Jungle]","Can move immediately once bought","[+1] Sight","Defense bonus when embarked","[+200]% Strength <vs cities> <when attacking>","[+25]% Strength <vs [Gunpowder] units>","Earn [100]% of killed [Military] unit's [Strength] as [Culture]"]
+		"uniques": ["Can move after attacking","[+75]% Strength <when fighting in [Jungle] tiles>","Double movement in [Jungle]","Can move immediately once bought","[+1] Sight","Defense bonus when embarked","[+200]% Strength <vs cities> <when attacking>","[+25]% Strength <vs [Gunpowder] units>"]
 	},
 
 	{
