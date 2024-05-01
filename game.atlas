@@ -4,7 +4,7 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Lawless Cathedral
+BuildingIcons/First House of the Sanctum
   rotate: false
   xy: 1044, 1596
   size: 200, 200
@@ -39,7 +39,7 @@ BuildingIcons/Womb
   orig: 100, 100
   offset: 0, 0
   index: -1  
-ImprovementIcons/First House of the Sanctum
+ImprovementIcons/Lawless Cathedral
   rotate: false
   xy: 220, 278
   size: 100, 100
