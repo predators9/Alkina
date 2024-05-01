@@ -84,11 +84,10 @@
 		"strength": 999,
 		"cost": 999,
 		"requiredTech": "Nanotechnology",
-		"promotions": ["Ignore terrain cost"],
 		"hurryCostModifier": -25,
 		"attackSound": "metalhit",
-		"uniques": ["Can move after attacking","[2] additional attacks per turn","Unit will heal every turn, even if it performs an action","Double movement in [Jungle]","Land units may cross [Mountain] tiles","[+75]% Strength <when fighting in [Foreign Land] tiles>","Can move immediately once bought","Prevents spreading of religion to the city it is next to","Can [Remove Foreign religions from your own cities] [1] times",
-		"Can be purchased with [Faith] [in all cities]","Can construct [First House of the Sanctum] <if it hasn't used other actions yet>",
+		"uniques": ["Can move after attacking","[2] additional attacks per turn","Unit will heal every turn, even if it performs an action","Double movement in [Jungle]","[+25]% Strength <when fighting in [Foreign Land] tiles>","Can move immediately once bought","Prevents spreading of religion to the city it is next to","Can [Remove Foreign religions from your own cities] [1] times",
+		"Can be purchased with [Faith] [in all cities]","Can construct [Blessed Wood] <if it hasn't used other actions yet>","Can instantly construct a [First House of the Sanctum] improvement <by consuming this unit>"
 		"[+99] Sight","Can see over obstacles","Defense bonus when embarked","[+200]% Strength <vs cities>","[+200]% Strength <when defending> <vs [Ranged] units>","[+100]% Strength <vs [Armored] units>","[100]% chance to intercept air attacks","+9 Intercept Range", "[+150]% Strength <vs [Missile] units>","[+150]% Strength <vs [Atomic Bomber] units>","Never appears as a Barbarian unit"]
 	}
 
